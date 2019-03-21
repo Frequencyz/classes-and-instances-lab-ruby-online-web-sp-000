@@ -1,2 +1,3 @@
-Dog class
+class Dog
+  Dog = "fluffy"
 end
