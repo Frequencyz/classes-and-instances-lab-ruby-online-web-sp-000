@@ -2,6 +2,6 @@ class Person
   Person = "Awesome"
 end
 
-Person adele_goldberg.new
+adele_goldberg = Person.new
 
-Person alan_kay.new
+alan_kay = Person.new
