@@ -2,4 +2,9 @@ class Dog
   Dog = "fluffy"
 end
 
-fido = 
+fido = Dog.new
+
+snoopy = Dog.new
+
+lassie = Dog.new
+
