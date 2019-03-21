@@ -1,2 +1,2 @@
-Class Dog
+Dog class
 end
